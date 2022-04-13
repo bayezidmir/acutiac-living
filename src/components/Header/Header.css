@@ -4,3 +4,7 @@ nav a {
   color: black;
   padding: 10px;
 }
+
+.log-out {
+  cursor: pointer;
+}
